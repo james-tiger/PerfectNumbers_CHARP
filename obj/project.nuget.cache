@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vt4p9K6xais=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kemom\\Downloads\\MyProjectName\\MyProjectName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kemom\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
